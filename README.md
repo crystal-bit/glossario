@@ -14,7 +14,7 @@ Crystal Bit.
 
 ## Come contribuire
 
-Avete trovate un errore, oppure volete aggiungere altri termini? Proponete pure
+Avete trovato un errore, oppure volete aggiungere altri termini? Proponete pure
 una modifica creando una Pull Request.
 
 Se avete bisogno di aiuto chiedete sul [server Discord](discord)
