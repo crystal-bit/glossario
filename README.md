@@ -9,9 +9,9 @@ dei nuovi membri della community.
 | ------------------------- | ---------------------------------------------------------------------------------------------- |
 | [Git][wgit]               | Software per tenere traccia delle modifiche e delle versioni di un progetto software           |
 | [GitHub][wgithub]         | Piattaforma online per l'hosting di progetti software versionati con _git_                     |
-| [Repository][wrepo]       | Viene usato per indicare un progetto software che è stato condiviso su plattaforme come GitHub |
+| [Repository][wrepo]       | Viene usato per indicare un progetto software che è stato condiviso su piattaforme come GitHub |
 | [Pull Request][pr]        | Una modifica proposta ad un repository GitHub                                                  |
-| [Open Source][opensource] | Software di cui codice è possibile leggere e riutilizzare il codice.                           |
+| [Open Source][opensource] | Software di cui è possibile leggere e riutilizzarne il codice                                  |
 | [FOSS][wfoss]             | Acronimo di `Free and Open Source Software `                                                   |
 | Open Source vs FOSS?      | Leggi [questa pagina wikipedia](ossvsfoss)                                                     |
 
@@ -23,7 +23,7 @@ dei nuovi membri della community.
 [wfoss]: https://it.wikipedia.org/wiki/Software_libero
 [ossvsfoss]: https://en.wikipedia.org/wiki/Open_source#%22Open%22_versus_%22free%22_versus_%22free_and_open%22
 
-**Premessa**: le descrizioni che trovate qui sono semplificate e a volte
+**Nota**: le descrizioni che trovate qui sono semplificate e a volte
 imprecise. L'obiettivo è aiutare la comprensione e non quello di
 dare una definizione rigorosa.
 
@@ -32,7 +32,7 @@ Per qualsiasi chiarimento chiedete pure sul server Discord della community!
 ## Come contribuire
 
 Avete trovato un errore, oppure volete aggiungere altri termini? Proponete pure
-una modifica creando una Pull Request.
+una modifica creando una Pull Request (serve un account GitHub)!
 
 Per qualsiasi dubbio o commento fate un salto sul [server Discord](discord)!
 
